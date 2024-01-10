@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/your-work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/your-work/" height="30" width="40" /></a>
+<a href="https://codepen.io/your-work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/your-work/" height="30" width="40" /></a>
   <br/>   <br/>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasmine-benzaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasmine-benzaid/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yasmine-benzaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasmine-benzaid/" height="30" width="40" /></a>
   <br/>  <br/>
 <a href="https://www.youtube.com/@janedeveloppeuse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@janedeveloppeuse" height="30" width="40" /></a>
 </p>
