@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yasmine</h1>
+<h1 align="center">Hi 👋, I'm Yasmine alias Jane </h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 <img width="329" alt="image" src="https://github.com/BenzaidYasmine/benzaidyasmine/assets/17700569/18997e94-9ee6-4ea0-a4a6-8a5c93a8fd65">
 
